@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-MyFortunes::Application.config.secret_key_base = '17937006c34b35e8469037e270486372d86443c8b360e6cfc5dd0a6892a0b461693c92b650835809d9175d81a5e0d1a282fc2d09e8c7839bbc9424b82bd1021e'
+MyFortunes::Application.config.secret_key_base = '17937006c34b35e8469037e270486372d86443c8b360e6cfc5dd0a6892a0b461693c92b650835809d9175d81a5e0d1a282fc2d09e8c7839bbc94240000000002'
